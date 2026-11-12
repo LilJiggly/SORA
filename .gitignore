@@ -1,0 +1,17 @@
+# Scratch file for copied layout positions (press C in the app)
+copiedplace.txt
+
+# macOS
+.DS_Store
+
+# Dependencies and build output
+node_modules/
+dist/
+
+# Logs and local environment files
+*.log
+.env
+.env.*
+
+# Editor / tool local state
+.claude/
